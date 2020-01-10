@@ -58,7 +58,28 @@
 
 ### Neural Machine Translation
 
-[Neural Machine Translation](https://arxiv.org/abs/1709.07809) （Tutorials by Philipp Koehn）
+[Neural Machine Translation](https://arxiv.org/abs/1709.07809) [Tutorials by Philipp Koehn]
 
-[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) （ICLR 2015）
+[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473) [ICLR 2015]
 
+### Adversarial Attack
+
+[FREELB: ENHANCED ADVERSARIAL TRAINING FOR LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.11764.pdf) [ICLR 2020 under review]
+
+[Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf) [AAAI 2020]
+
+[MIXUP INFERENCE: BETTER EXPLOITING MIXUP TO DEFEND ADVERSARIAL ATTACKS](https://arxiv.org/abs/1909.11515) [ICLR 2020 under review] 	**TODO**
+
+[On the Robustness of Self-Attentive Models](https://www.aclweb.org/anthology/P19-1147.pdf) [ACL 2019]
+
+[TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf) [NDSS 2019]
+
+[Generating Natural Language Adversarial Examples](https://arxiv.org/pdf/1804.07998.pdf) [EMNLP 2018]
+
+[Adversarial examples in the physical world](https://arxiv.org/pdf/1607.02533) [ICLR 2017]
+
+### CROSS-LINGUAL Word Embedding
+
+[CROSS-LINGUAL ALIGNMENT VS JOINT TRAINING: A COMPARATIVE STUDY AND A SIMPLE UNIFIED FRAMEWORK](https://arxiv.org/pdf/1910.04708.pdf)
+
+[Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces](https://www.aclweb.org/anthology/P19-1018) [ACL 2019]
